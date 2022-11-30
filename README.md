@@ -1,15 +1,12 @@
-# ETZOL-DE2-CI-with-github
+# CI-with-github
 
-Run the code:
+run the code:
 
-```
-pip install -r requirements.txt
-python app.py
-```
+    pip install -r reauirements.txt
+    python app.py
 
-The app runs on: http://127.0.0.1:5000
+the app runs on http://127.0.0.1:5000
 
-Test the app:
-```
-python -m unittest
-```
+test the app:
+
+python -m unittest 
