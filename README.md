@@ -7,7 +7,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-The app runs on http://127.0.0.1:5000
+The app runs on: http://127.0.0.1:5000
 
 Test the app:
 ```
